@@ -3,6 +3,8 @@
 A personal finance tracker application built with NestJS, GraphQL, and MongoDB.
 
 ## Project Structure
+
+```plaintext
 .
 ├── .gitignore
 ├── .prettierrc
@@ -41,6 +43,7 @@ A personal finance tracker application built with NestJS, GraphQL, and MongoDB.
 │   └── jest-e2e.json
 ├── tsconfig.build.json
 └── tsconfig.json
+```
 
 ## Installation
 
